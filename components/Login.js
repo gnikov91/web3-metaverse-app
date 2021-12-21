@@ -15,7 +15,7 @@ function Login() {
 					height={200}
 				/>
 				<button
-					className='bg-purple-500 rounded-lg p-5 font-bold animate-pulse'
+					className='bg-fuchsia-600 rounded-lg p-5 font-bold animate-pulse'
 					onClick={authenticate}
 				>
 					Login to the METAVERSE
